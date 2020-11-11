@@ -104,6 +104,7 @@ function SetAndRead () {
         index3 += 1
     }
 }
+/*
 function decToHex (num: number) {
     result = "0x"
     nibble = Math.floor(num / 16)
@@ -117,9 +118,9 @@ function decToHex (num: number) {
         nibble = num % 16
     }
     return result
-}
-let nibble = 0
-let result = ""
+}*/
+nibble = 0
+result = ""
 let index3 = 0
 let alarmReg = 0
 let second = 0
