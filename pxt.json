@@ -1,6 +1,6 @@
 {
     "name": "pxt-DS3231",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "description": "Extension for DS3231 RTC",
     "dependencies": {
         "core": "*",
