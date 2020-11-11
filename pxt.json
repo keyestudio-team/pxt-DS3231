@@ -1,6 +1,6 @@
 {
     "name": "pxt-DS3231",
-    "description": "MakeCode extension for DS3231 RTC",
+    "description": "Extension for DS3231 RTC",
     "dependencies": {
         "core": "*",
         "radio": "*"

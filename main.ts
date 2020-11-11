@@ -1,5 +1,5 @@
 /**
-* makecode DS3231 RTC Package.
+* DS3231 RTC Package.
 * Based on DS1307 package from https://github.com/makecode-extensions/DS1307
 */
 
