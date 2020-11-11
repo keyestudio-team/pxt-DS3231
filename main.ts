@@ -219,7 +219,7 @@ namespace DS3231 {
         buf[5] = decToBcd(date);
         buf[6] = decToBcd(month);
         buf[7] = (year -2000)/10*16 + (year -2000)%10;
-        pins.i2cWriteBuffer(DS3231_I2C_ADDR, buf)
+        pins.i2cWriteBuffer(DS3231_I2C_ADDR, buf);
     }
     
     
